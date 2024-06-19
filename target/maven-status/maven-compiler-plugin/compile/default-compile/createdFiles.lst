@@ -1,0 +1,4 @@
+com\qa\factory\DriverFactory.class
+com\pages\Loginpage.class
+com\qa\Util\ConfigReader.class
+com\pages\AddtocartPage.class
